@@ -5,6 +5,7 @@
   "author": {
     "name": "MoDevIO"
   },
+  "publisher": "MoDevIO",
   "repository": {
     "type": "git",
     "url": "https://github.com/MoDevIO/minimal-vsc"
