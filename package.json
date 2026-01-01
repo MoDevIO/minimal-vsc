@@ -1,0 +1,22 @@
+{
+  "name": "minimal-vsc",
+  "displayName": "Minimal VSC",
+  "description": "A collection of themes/icon-packs that makes your VSC minimal",
+  "author": {
+    "name": "MoDevIO"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.107.0"
+  },
+  "categories": [
+    "Extension Packs",
+    "Themes",
+    "Visualization"
+  ],
+  "extensionPack": [
+    "MoDevIO.modevio-minimal",
+    "7ute.minimal-icon-theme",
+    "PKief.material-product-icons"
+  ]
+}
